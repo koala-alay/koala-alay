@@ -30,7 +30,7 @@ func (m *Myself) greet() string {
 func main() {
 	var a = Myself{
 		Name:     "Ezra",
-		Nickname: "doraemon",
+		Nickname: "Doraemon",
 		Skills:   []string{"Golang", "Java", "Python", "JavaScript", "PHP", "Laravel"},
 	}
 
