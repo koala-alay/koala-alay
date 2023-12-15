@@ -68,8 +68,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thisdoraemon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![thisdoraemon's GitHub | Stats](https://stats.quine.sh/thisdoraemon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=thisdoraemon)
+
+[![thisdoraemon's GitHub | Languages Over Time](https://stats.quine.sh/thisdoraemon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=thisdoraemon)
+  
 
 ###
