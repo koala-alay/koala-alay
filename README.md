@@ -11,5 +11,3 @@ I primarily focus on Go for backend development, boasting experience in containe
 [LinkedIn](https://www.linkedin.com/in/ezrantn/)
 
 [Medium](https://medium.com/@ezrantn)
-
-[Website](https://ezrantn.vercel.app/)
