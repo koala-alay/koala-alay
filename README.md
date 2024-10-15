@@ -1,4 +1,4 @@
-### Hi I'm [@ezrantn](https://x.com/EzraNatanael6) (Ezra Natanael) 👋
+### Hi I'm [@ezrantn](https://www.linkedin.com/in/ezrantn/) (Ezra Natanael) 👋
 
 I'm a Software Engineer from Indonesia. 🇮🇩
 
