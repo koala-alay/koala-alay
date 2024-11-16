@@ -2,7 +2,7 @@
 
 I'm a Software Engineer from Indonesia. 🇮🇩
 
-I enjoy creating open-source tools, such as [@macshift](https://github.com/ezrantn/macshift)
+I enjoy creating open-source tools, such as [@macshift](https://github.com/ezrantn/macshift) and [@zli](https://github.com/ezrantn/zli)
 
 Currently, I'm working on:
 - [@steg](https://github.com/ezrantn/steg) a CLI steganography tool
